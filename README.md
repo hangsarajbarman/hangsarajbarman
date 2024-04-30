@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm HANGSARAJ BARMAN</h1>
+<h1 align="center">Hi 👋, I'm Hangsaraj Barman</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, JS, REACT, NODE JS**
