@@ -1,101 +1,108 @@
-<h1 align="center">Hi 👋, I'm Hangsaraj Barman</h1>
-<h3 align="center">🚀 Software Engineer | 🛰️ Ex-ISRO Intern | 💻 Full Stack Developer</h3>
-
+<h1 align="center">Hangsaraj Barman</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Ex-ISRO+Intern;React+%7C+Node.js+%7C+TypeScript;Building+Scalable+Systems;Open+to+Opportunities&center=true&width=520&height=45">
+  Software Engineer · Ex-ISRO Intern · Full-Stack Systems
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=hangsarajbarman&label=Profile%20views&color=0e75b6&style=flat" />
-<img src="https://img.shields.io/github/followers/hangsarajbarman?label=Followers&style=social" />
-</p>
-
----
-
-## 🧠 About Me
-- 🔭 Working on **Scalable Full-Stack Applications**
-- 🌱 Learning **System Design, Cloud Computing**
-- 🛰️ Ex-ISRO Intern (NRSC, Hyderabad)
-- ⚡ Built systems processing **1.2TB+ RF data daily**
-- 👯 Open to **Full-Time Opportunities & Open Source**
-- 💬 Ask me about **React, Node.js, TypeScript, Python**
-
----
-
-## 🎓 Education
-- 🎓 **B.Tech in Computer Science & Engineering**  
-  📍 Siliguri Institute of Technology (2021 – 2025)  
-  📊 CGPA: **7.5/10**
-
-- 📚 Relevant Coursework:  
-  Data Structures & Algorithms | Operating Systems | DBMS | Computer Networks | Software Engineering | AI
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Journal Management System
-- Full-stack web app for manuscript submission & peer review  
-- 🔐 JWT Auth + RBAC | ⚡ Optimized APIs (30% faster)  
-- 🛠️ Tech: React, Node.js, MongoDB  
-
----
-
-### 🔹 Olevyn Business Website
-- Interactive UI with animations & 3D rendering  
-- 🚀 Improved engagement by 50%  
-- 🛠️ Tech: React, Three.js, Framer Motion  
-
----
-
-### 🔹 ISRO RF Automation System
-- Automated RF signal testing using Python (SCPI over TCP/IP)  
-- ⚡ Reduced manual work by 75%  
-- 📡 Controlled 15+ RF devices  
-
----
-
-## 🛠️ Tech Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,mongodb,tailwind,git,cpp" />
+  <a href="https://github.com/hangsarajbarman">
+    <img src="https://komarev.com/ghpvc/?username=hangsarajbarman&label=Profile&color=555&style=flat" />
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## Overview
+
+Engineer focused on building **scalable backend systems and ML-driven applications**.
+
+- Experience working on **high-volume data systems (1TB+ daily)** at ISRO  
+- Strong foundation in **APIs, system design, and data-driven architectures**  
+- Interested in **distributed systems and performance engineering**
+
+---
+
+## Work
+
+### E-Commerce Recommendation Engine
+
+Full-stack system integrating **machine learning with real-world application flow**.
+
+- Built complete pipeline: authentication → cart → checkout → orders  
+- Implemented collaborative filtering (KNN, cosine similarity)  
+- Designed recommendation logic based on user behavior  
+
+**Focus**  
+System design · ML integration · data pipelines  
+
+---
+
+### Infocus Publications Platform
+
+Role-based system for managing **academic publishing workflows**.
+
+- Multi-role architecture (Admin, Author, Editor, Reviewer)  
+- Secure authentication and access control (JWT)  
+- End-to-end manuscript lifecycle  
+
+**Focus**  
+Backend architecture · access control · workflow systems  
+
+---
+
+### Olevyn Technologies Website
+
+High-performance frontend with **interactive UI and motion design**.
+
+- Built using React, TypeScript, Framer Motion, Three.js  
+- Implemented responsive and animation-driven UI  
+- Designed lead capture and interaction flows  
+
+**Focus**  
+Frontend systems · UI performance · component architecture  
+
+---
+
+## Stack
+
+**Languages**  
+JavaScript · TypeScript · Python · C++ · Java  
+
+**Backend**  
+Node.js · Express · Flask · REST APIs  
+
+**Frontend**  
+React · Next.js · Tailwind · Framer Motion  
+
+**Data / ML**  
+Pandas · NumPy · scikit-learn  
+
+**Infrastructure**  
+Docker · AWS · Linux · Git  
+
+**Databases**  
+MongoDB · PostgreSQL · MySQL · SQLite  
+
+---
+
+## GitHub
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hangsarajbarman&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hangsarajbarman&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hangsarajbarman&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=hangsarajbarman&show_icons=true&theme=default&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=hangsarajbarman&layout=compact&theme=default&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 Achievements
-- 🛰️ Internship at ISRO (NRSC, Hyderabad)
-- 📈 Improved system efficiency by **60%**
-- ⚡ Built automation systems handling large-scale RF data
+## Contact
 
----
-
-## 🌐 Connect With Me
 <p align="center">
-<a href="https://linkedin.com/in/hangsarajbarman"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="mailto:hangsarajbarmancob1@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://linkedin.com/in/hangsarajbarman">LinkedIn</a> ·
+  <a href="https://github.com/hangsarajbarman">GitHub</a> ·
+  <a href="mailto:hangsarajbarmancob1@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <sub>Focused on building reliable systems that scale.</sub>
 </p>
-
----
-
-## ⚡ Fun Fact
-> I love building systems that **scale to real-world problems 🚀**
