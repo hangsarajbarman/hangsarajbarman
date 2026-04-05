@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Hangsaraj Barman</h1>
-<h3 align="center">Software Engineer | Ex-ISRO Intern | Full-Stack Developer | Systems Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Hangsaraj Barman</h1>
+<h3 align="center">🚀 Software Engineer | Ex-ISRO Intern | Full-Stack Developer | System Design Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hangsarajbarman&label=Profile%20views&color=0e75b6&style=flat" alt="hangsarajbarman" />
@@ -7,118 +7,121 @@
 
 ---
 
-## About Me
+## 🚀 About Me
 
-Software Engineer focused on building **scalable systems and ML-powered applications**.
+Software Engineer with experience building **scalable full-stack systems and ML-powered applications**.
 
-- Ex-ISRO Intern — worked on high-volume data processing systems (1TB+ daily)
-- Strong in backend engineering, APIs, and system architecture
-- Interested in distributed systems and real-world scalability challenges
-
----
-
-## Selected Work
-
-### E-Commerce Recommendation Engine
-
-Full-stack application with a personalized recommendation system.
-
-**Key Work**
-- Built end-to-end e-commerce flow (authentication, cart, checkout, orders)
-- Implemented collaborative filtering using KNN (cosine similarity)
-- Designed user-level recommendation pipeline
-
-**Impact**
-- Improved product discovery through personalization
-- Demonstrates ML + backend system integration
-
-**Engineering Notes**
-- Chose KNN for fast inference and simplicity
-- Session-based cart for lightweight state handling
-- SQLite for quick setup and prototyping
+- 🛰️ Ex-ISRO Intern — worked on **high-volume data processing systems (1TB+ daily)**
+- ⚡ Strong in **Backend Systems, APIs, and Scalable Architecture**
+- 🧠 Passionate about **System Design & Distributed Systems**
+- 🌍 Interested in solving **real-world engineering problems at scale**
 
 ---
 
-### Infocus Publications (Journal Platform)
+## 🏆 Featured Projects
 
-Role-based system for managing academic publishing workflows.
+### 🛒 E-Commerce Recommendation Engine
+**ML-powered full-stack application with personalized product recommendations**
 
-**Key Work**
-- Multi-role architecture (Admin, Author, Editor, Reviewer)
-- JWT-based authentication and access control
-- End-to-end manuscript lifecycle system
-- Email notification workflows
+#### 🚀 Highlights
+- Built a complete **e-commerce flow (Auth → Cart → Checkout → Orders)**
+- Implemented **collaborative filtering using KNN (cosine similarity)**
+- Designed **user-personalized recommendation system**
+- Automated **data pipeline + model training on startup**
 
-**Impact**
-- Streamlined academic publishing operations
-- Supports multiple user roles with scalable backend design
+#### 📈 Impact
+- Improved product discovery via intelligent recommendations
+- Simulates real-world e-commerce system behavior
+- Demonstrates ML + Backend system integration
 
-**Engineering Notes**
-- Secure auth using JWT + HTTP-only cookies
-- Modular backend structure (controllers/services)
-- MongoDB for flexible data modeling
-
----
-
-### Olevyn Technologies Website
-
-Modern, high-performance company website with interactive UI.
-
-**Key Work**
-- Built using React, TypeScript, Framer Motion, and Three.js
-- Integrated 3D visuals and smooth UI interactions
-- Implemented lead capture and contact workflows
-
-**Impact**
-- Created a strong digital presence with high engagement UI
-- Demonstrates advanced frontend engineering capability
-
-**Engineering Notes**
-- Used React Three Fiber for real-time rendering
-- Component-driven scalable architecture
-- Utility-first styling approach
+#### 🧠 Engineering Decisions
+- Used **KNN instead of deep learning** for fast inference
+- Session-based cart for lightweight state management
+- SQLite for rapid prototyping and simplicity
 
 ---
 
-## Technical Skills
+### 📚 Infocus Publications (Journal Management System)
+**Enterprise-level role-based platform for research publication workflows**
 
-**Languages**  
-JavaScript, TypeScript, Python, C++, Java  
+#### 🚀 Highlights
+- Built **multi-role system** (Admin, Author, Editor, Reviewer)
+- Implemented **JWT authentication + role-based access control**
+- Designed **full manuscript lifecycle system**
+- Integrated **email notification system (Nodemailer)**
 
-**Backend & Systems**  
-Node.js, Express.js, Flask, REST APIs, System Design  
+#### 📈 Impact
+- Digitized complete academic publishing workflow
+- Reduced manual coordination between stakeholders
+- Scalable backend handling multiple user roles
 
-**Frontend**  
-React.js, Next.js, Tailwind CSS, Framer Motion  
-
-**Data & ML**  
-Pandas, NumPy, scikit-learn, Recommendation Systems  
-
-**Tools & DevOps**  
-Docker, AWS, Git, Postman, Linux  
-
-**Databases**  
-MongoDB, PostgreSQL, MySQL, SQLite  
+#### 🧠 Engineering Decisions
+- Used **JWT with HTTP-only cookies for security**
+- Modular backend architecture (controllers, services, routes)
+- MongoDB for flexible schema design
 
 ---
 
-## GitHub Overview
+### 🌐 Olevyn Technologies Website
+**High-performance animated company website with modern UI/UX**
+
+#### 🚀 Highlights
+- Built using **React + TypeScript + Framer Motion + Three.js**
+- Integrated **3D animations and interactive UI**
+- Designed **lead capture + payment interface**
+- Fully responsive with modern UX patterns
+
+#### 📈 Impact
+- Created premium digital brand presence
+- Optimized UI for engagement and conversion
+- Demonstrates strong frontend engineering skills
+
+#### 🧠 Engineering Decisions
+- Used **React Three Fiber for real-time 3D rendering**
+- Component-based architecture for scalability
+- Tailwind-based styling for rapid UI development
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+`JavaScript` `TypeScript` `Python` `C++` `Java`
+
+### ⚙️ Backend & Systems
+`Node.js` `Express.js` `Flask` `REST APIs` `System Design`
+
+### 🎨 Frontend
+`React.js` `Next.js` `Tailwind CSS` `Framer Motion`
+
+### 🧠 Data & ML
+`Pandas` `NumPy` `scikit-learn` `Recommendation Systems`
+
+### ☁️ DevOps & Tools
+`Docker` `AWS` `Git` `Postman` `Linux`
+
+### 🗄 Databases
+`MongoDB` `PostgreSQL` `MySQL` `SQLite`
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hangsarajbarman&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hangsarajbarman&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hangsarajbarman&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hangsarajbarman&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hangsarajbarman&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hangsarajbarman&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## Contact
+## 📫 Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/hangsarajbarman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
@@ -126,14 +129,16 @@ MongoDB, PostgreSQL, MySQL, SQLite
 <a href="https://instagram.com/its.hangsarajb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 </p>
 
-Email: hangsarajbarmancob1@gmail.com  
+📧 **Email:** hangsarajbarmancob1@gmail.com  
 
 ---
 
-## Note
+## ⚡ Fun Fact
 
-Worked on systems at ISRO that process large-scale data (1TB+ daily).
+💡 I’ve worked on systems at ISRO that process **1TB+ data daily**
+
+---
 
 <p align="center">
-  <strong>Focused on building reliable, scalable systems.</strong>
+  <strong>🚀 Building scalable systems. Solving real-world problems.</strong>
 </p>
