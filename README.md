@@ -44,27 +44,54 @@ Data Structures | Operating Systems | DBMS | Computer Networks | Software Engine
 ## 🚀 Featured Projects
 
 ### 🛒 E-Commerce Recommendation Engine
-- ML-powered recommendation system using **collaborative filtering (KNN + cosine similarity)**  
-- Full-stack app with **Flask + SQLite + Bootstrap UI**  
-- Personalized recommendations + complete shopping flow  
+- Designed a **personalized recommendation system** using collaborative filtering (**KNN + cosine similarity**)  
+- Built complete **e-commerce pipeline** (authentication → cart → checkout → orders)  
+- Developed **ML pipeline** to generate recommendations from user purchase data  
+
+**Impact**
+- Improved product discovery using behavior-based recommendations  
+- Simulates real-world scalable e-commerce architecture  
+
+**Engineering Highlights**
+- Optimized for **fast inference using KNN instead of deep learning models**  
+- Implemented **session-based cart system for stateless backend design**  
+- Automated model training using real order data  
 
 **Tech:** Python, Flask, Pandas, NumPy, Scikit-learn  
 
 ---
 
 ### 📚 Infocus Publications (Journal System)
-- Full-stack journal platform with **role-based dashboards**  
-- Secure **JWT authentication + RBAC**  
-- Email notification system + manuscript workflow  
+- Built a **role-based full-stack platform** (Admin, Author, Editor, Reviewer)  
+- Implemented **secure authentication with JWT + role-based access control (RBAC)**  
+- Designed complete **manuscript lifecycle workflow with email notifications**  
+
+**Impact**
+- Streamlined academic publishing workflow  
+- Reduced manual coordination between stakeholders  
+
+**Engineering Highlights**
+- Modular backend architecture (**controllers, services, routes**)  
+- Secure session handling using **JWT with HTTP-only cookies**  
+- Scalable schema design using MongoDB  
 
 **Tech:** React, TypeScript, Node.js, Express, MongoDB  
 
 ---
 
 ### 🌐 Olevyn Technologies Website
-- Premium animated website with **3D UI & smooth interactions**  
-- Built with **React + Three.js + Framer Motion**  
-- Fully responsive with modern UX  
+- Developed a **high-performance animated website** with modern UI/UX  
+- Integrated **3D rendering and motion animations (Three.js + Framer Motion)**  
+- Built **responsive and interactive user experience**  
+
+**Impact**
+- Created premium digital presence with high engagement UI  
+- Demonstrates advanced frontend engineering capability  
+
+**Engineering Highlights**
+- Used **React Three Fiber for real-time rendering**  
+- Component-based scalable frontend architecture  
+- Optimized animations for smooth performance  
 
 **Tech:** React, TypeScript, TailwindCSS, Three.js  
 
