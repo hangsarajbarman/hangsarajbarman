@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hangsaraj Barman</h1>
-<h3 align="center">💼 Software Developer | 🛰️ Ex-ISRO Intern | 💻 Full Stack Developer</h3>
+<h3 align="center">💼 Software Developer | 🛰️ Ex-ISRO Intern | 💻 Systems Engineering</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Ex-ISRO+Intern;React+%7C+Node.js+%7C+TypeScript;Building+Scalable+Systems;Open+to+Opportunities&center=true&width=520&height=45">
