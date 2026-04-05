@@ -1,108 +1,139 @@
-<h1 align="center">Hangsaraj Barman</h1>
-<p align="center">
-  Software Engineer · Ex-ISRO Intern · Full-Stack Systems
-</p>
+<h1 align="center">Hi, I'm Hangsaraj Barman</h1>
+<h3 align="center">Software Engineer | Ex-ISRO Intern | Full-Stack Developer | Systems Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/hangsarajbarman">
-    <img src="https://komarev.com/ghpvc/?username=hangsarajbarman&label=Profile&color=555&style=flat" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=hangsarajbarman&label=Profile%20views&color=0e75b6&style=flat" alt="hangsarajbarman" />
 </p>
 
 ---
 
-## Overview
+## About Me
 
-Engineer focused on building **scalable backend systems and ML-driven applications**.
+Software Engineer focused on building **scalable systems and ML-powered applications**.
 
-- Experience working on **high-volume data systems (1TB+ daily)** at ISRO  
-- Strong foundation in **APIs, system design, and data-driven architectures**  
-- Interested in **distributed systems and performance engineering**
+- Ex-ISRO Intern — worked on high-volume data processing systems (1TB+ daily)
+- Strong in backend engineering, APIs, and system architecture
+- Interested in distributed systems and real-world scalability challenges
 
 ---
 
-## Work
+## Selected Work
 
 ### E-Commerce Recommendation Engine
 
-Full-stack system integrating **machine learning with real-world application flow**.
+Full-stack application with a personalized recommendation system.
 
-- Built complete pipeline: authentication → cart → checkout → orders  
-- Implemented collaborative filtering (KNN, cosine similarity)  
-- Designed recommendation logic based on user behavior  
+**Key Work**
+- Built end-to-end e-commerce flow (authentication, cart, checkout, orders)
+- Implemented collaborative filtering using KNN (cosine similarity)
+- Designed user-level recommendation pipeline
 
-**Focus**  
-System design · ML integration · data pipelines  
+**Impact**
+- Improved product discovery through personalization
+- Demonstrates ML + backend system integration
+
+**Engineering Notes**
+- Chose KNN for fast inference and simplicity
+- Session-based cart for lightweight state handling
+- SQLite for quick setup and prototyping
 
 ---
 
-### Infocus Publications Platform
+### Infocus Publications (Journal Platform)
 
-Role-based system for managing **academic publishing workflows**.
+Role-based system for managing academic publishing workflows.
 
-- Multi-role architecture (Admin, Author, Editor, Reviewer)  
-- Secure authentication and access control (JWT)  
-- End-to-end manuscript lifecycle  
+**Key Work**
+- Multi-role architecture (Admin, Author, Editor, Reviewer)
+- JWT-based authentication and access control
+- End-to-end manuscript lifecycle system
+- Email notification workflows
 
-**Focus**  
-Backend architecture · access control · workflow systems  
+**Impact**
+- Streamlined academic publishing operations
+- Supports multiple user roles with scalable backend design
+
+**Engineering Notes**
+- Secure auth using JWT + HTTP-only cookies
+- Modular backend structure (controllers/services)
+- MongoDB for flexible data modeling
 
 ---
 
 ### Olevyn Technologies Website
 
-High-performance frontend with **interactive UI and motion design**.
+Modern, high-performance company website with interactive UI.
 
-- Built using React, TypeScript, Framer Motion, Three.js  
-- Implemented responsive and animation-driven UI  
-- Designed lead capture and interaction flows  
+**Key Work**
+- Built using React, TypeScript, Framer Motion, and Three.js
+- Integrated 3D visuals and smooth UI interactions
+- Implemented lead capture and contact workflows
 
-**Focus**  
-Frontend systems · UI performance · component architecture  
+**Impact**
+- Created a strong digital presence with high engagement UI
+- Demonstrates advanced frontend engineering capability
+
+**Engineering Notes**
+- Used React Three Fiber for real-time rendering
+- Component-driven scalable architecture
+- Utility-first styling approach
 
 ---
 
-## Stack
+## Technical Skills
 
 **Languages**  
-JavaScript · TypeScript · Python · C++ · Java  
+JavaScript, TypeScript, Python, C++, Java  
 
-**Backend**  
-Node.js · Express · Flask · REST APIs  
+**Backend & Systems**  
+Node.js, Express.js, Flask, REST APIs, System Design  
 
 **Frontend**  
-React · Next.js · Tailwind · Framer Motion  
+React.js, Next.js, Tailwind CSS, Framer Motion  
 
-**Data / ML**  
-Pandas · NumPy · scikit-learn  
+**Data & ML**  
+Pandas, NumPy, scikit-learn, Recommendation Systems  
 
-**Infrastructure**  
-Docker · AWS · Linux · Git  
+**Tools & DevOps**  
+Docker, AWS, Git, Postman, Linux  
 
 **Databases**  
-MongoDB · PostgreSQL · MySQL · SQLite  
+MongoDB, PostgreSQL, MySQL, SQLite  
 
 ---
 
-## GitHub
+## GitHub Overview
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=hangsarajbarman&show_icons=true&theme=default&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=hangsarajbarman&layout=compact&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hangsarajbarman&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hangsarajbarman&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hangsarajbarman&layout=compact&theme=default" />
 </p>
 
 ---
 
 ## Contact
 
-<p align="center">
-  <a href="https://linkedin.com/in/hangsarajbarman">LinkedIn</a> ·
-  <a href="https://github.com/hangsarajbarman">GitHub</a> ·
-  <a href="mailto:hangsarajbarmancob1@gmail.com">Email</a>
+<p align="left">
+<a href="https://linkedin.com/in/hangsarajbarman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://twitter.com/hangsarajbarman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+<a href="https://instagram.com/its.hangsarajb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 </p>
+
+Email: hangsarajbarmancob1@gmail.com  
 
 ---
 
+## Note
+
+Worked on systems at ISRO that process large-scale data (1TB+ daily).
+
 <p align="center">
-  <sub>Focused on building reliable systems that scale.</sub>
+  <strong>Focused on building reliable, scalable systems.</strong>
 </p>
