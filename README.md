@@ -107,11 +107,6 @@ Data Structures | Operating Systems | DBMS | Computer Networks | Software Engine
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hangsarajbarman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&cache_seconds=1800" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hangsarajbarman&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&cache_seconds=1800" />
-</p>
-
-<p align="center">
   <img width="60%" src="https://streak-stats.demolab.com?user=hangsarajbarman&theme=tokyonight&hide_border=true&background=00000000" />
 </p>
 
